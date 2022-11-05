@@ -7,6 +7,8 @@
 Write a bash script that collects two numbers from the user and then
 prints a message if these two numbers are smaller or greater than 100.
 <img width="240" alt="image" src="https://user-images.githubusercontent.com/73169815/200144253-54a1e3f9-170c-4bfa-8c8b-f6da8b6f0ea6.png">
+
+
 ------------
 
 
