@@ -3,7 +3,7 @@
 
 
 
-**question 1**
+**question 1:**
 
 Write a bash script that collects two numbers from the user and then
 prints a message if these two numbers are smaller or greater than 100.
@@ -14,10 +14,11 @@ prints a message if these two numbers are smaller or greater than 100.
 ------------
 
 
-**question 2**
+**question 2:**
 
 Write a bash script that reads a temperature in Fahrenheit and converts
 it to Celcius.
+
 <img width="445" alt="image" src="https://user-images.githubusercontent.com/73169815/200144269-a2d995d7-8a91-4060-be7e-bc1758073567.png">
 
 <img width="429" alt="image" src="https://user-images.githubusercontent.com/73169815/200144356-b6f48a0c-7544-4a11-895d-d99321feddc6.png">
@@ -26,7 +27,7 @@ it to Celcius.
 ------------
 
 
-**question 3**
+**question 3:**
 
 Using the find, du, and sort commands, please write a script that finds
 the largest 10 files in a directory.
