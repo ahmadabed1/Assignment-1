@@ -17,6 +17,8 @@ prints a message if these two numbers are smaller or greater than 100.
 Write a bash script that reads a temperature in Fahrenheit and converts
 it to Celcius.
 <img width="445" alt="image" src="https://user-images.githubusercontent.com/73169815/200144269-a2d995d7-8a91-4060-be7e-bc1758073567.png">
+<img width="429" alt="image" src="https://user-images.githubusercontent.com/73169815/200144356-b6f48a0c-7544-4a11-895d-d99321feddc6.png">
+
 
 ------------
 
