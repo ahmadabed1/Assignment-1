@@ -3,7 +3,7 @@
 
 
 
-**question 1:**
+
 
 Write a bash script that collects two numbers from the user and then
 prints a message if these two numbers are smaller or greater than 100.
